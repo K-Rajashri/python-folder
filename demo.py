@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Step 1
 class Employee:
     def determine_weekly_salary(self, weekly_hours, wage):
@@ -23,4 +24,6 @@ if __name__ == "__main__":
     main()
 
 
+=======
+>>>>>>> 3acf4e8cae5769c2b419640d9e32871e33c96cbf
 
